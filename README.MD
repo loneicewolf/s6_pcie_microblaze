@@ -1,4 +1,13 @@
 
+# Improving Cr4sh's s6_pcie_microblaze
+# see branches
+
+this is a fork!
+
+original repo's readme below
+***
+
+
 # PCI Express DIY hacking toolkit
 
 [General information](#general-information)  
